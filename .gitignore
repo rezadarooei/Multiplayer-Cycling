@@ -75,3 +75,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Cycling/BMX/Animation/BMX_Spin.uasset
+Content/Cycling/Gym/Mesh/Gym_Pedal_PhysicsAsset.uasset
+Content/Cycling/
+Content/Mannequin/
+Content/ThirdPerson/
+Content/ThirdPersonCPP/
+Content/Geometry/
+Config/
